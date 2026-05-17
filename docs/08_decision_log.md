@@ -282,3 +282,41 @@ Cloak plus short tabard and limited controlled chains.
 Reason:
 
 It preserves Inquisitorial ceremony, adds Ordo Malleus intimidation, and reduces the risk of chain clutter or Space Marine drift.
+
+## Recent Working Decisions
+
+### WD001: Selected AI Concept Sheet As Visual Direction Anchor
+
+Date: 2026-05-16
+
+Status:
+Approved as visual direction anchor only.
+
+Decision:
+The image `D_black_verdict_ai_concept_sheet_selected_2026-05-16.png` is selected as the current visual direction anchor for mood, silhouette direction, armor/cloak feeling, and presentation attitude.
+
+File:
+references/00_ai_concept_exploration/D_black_verdict_ai_concept_sheet_selected_2026-05-16.png
+
+Use For:
+- Mood
+- Overall visual direction
+- Silhouette inspiration
+- Face attitude
+- Cloak and armor target feeling
+- Presentation direction
+
+Do Not Use For:
+- Final lore authority
+- Exact armor construction
+- Exact symbols
+- Readable text
+- Final cape attachment logic
+- Final prop shapes
+- Final 3D modeling blueprint
+
+Reason:
+The image is strong as an entry-point concept, but it is AI-generated and may contain fake symbols, unclear construction, and impossible cloth/armor intersections.
+
+Production Impact:
+Before blockout, the selected image must be analyzed against the visual design bible and corrected through official references, real-world materials, and clean production logic.

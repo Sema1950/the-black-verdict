@@ -1,4 +1,24 @@
 # 00 Project Instructions
+## Project Storage Locations
+
+GitHub Repository:
+
+https://github.com/Sema1950/the-black-verdict
+
+Purpose:
+GitHub is the project brain. It stores documentation, decisions, task planning, reference indexes, and lightweight project files.
+
+Google Drive Production Folder:
+
+https://drive.google.com/drive/folders/1dtagETjguwR3aURIWL0F1oDw87sJ27BQ?usp=drive_link
+
+Purpose:
+Google Drive is the heavy production storage. It stores reference images, PureRef boards, Blender files, ZBrush files, Marvelous Designer files, Substance Painter files, textures, renders, exports, and backups.
+
+Working Rule:
+GitHub = project brain.
+Google Drive = heavy production storage.
+ChatGPT Project = discussion, review, direction.
 
 ## Project Name
 

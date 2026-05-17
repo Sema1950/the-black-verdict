@@ -163,6 +163,39 @@ Default status for all store links until tested:
 
 Needs manual verification.
 
+### I. AI Concept Exploration
+
+AI-generated images created during this project.
+
+Use only for:
+
+- Mood
+- Composition
+- Broad silhouette ideas
+- Visual direction testing
+- Presentation inspiration
+- Discussion of what to keep, modify, or reject
+
+Do not use for:
+
+- Lore authority
+- Final symbol design
+- Readable text
+- Armor construction
+- Cloth attachment logic
+- Exact prop design
+- Final modeling reference
+
+Rule:
+
+AI concept images must always be labeled as non-canon concept exploration.
+
+They must be checked against:
+- Official references
+- Project visual design bible
+- Real-world material references
+- Clean 3D construction logic
+
 ## Local Image Archive Rule
 
 The project must not become only a list of links.
