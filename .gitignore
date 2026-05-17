@@ -1,0 +1,46 @@
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Blender backup and autosave files
+*.blend1
+*.blend2
+*.blend@
+*.blend~
+*.autosave.blend
+
+# ZBrush temporary and quicksave files
+*.ZPR~
+*.ZTL~
+*.TMP
+QuickSave/
+ZBrushScratchDiskPath.txt
+
+# Substance Painter temporary files
+*.spp.autosave
+*.spp.tmp
+*.sbsar.tmp
+Substance 3D Painter/
+
+# Marmoset Toolbag temporary files
+*.tbscene.tmp
+*.mview.tmp
+ToolbagCache/
+
+# Unreal generated folders
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+
+# Large cache and generated files
+cache/
+caches/
+temp/
+tmp/
+*.cache
+*.bak
+*.log
